@@ -1,1 +1,3 @@
-# task1
+Basic project
+task 1
+To-do list application
